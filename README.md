@@ -8,4 +8,5 @@ Note that the code for minibatch discrimination is not really optimal at this st
 
 ![alt text](https://github.com/sanghviyashiitb/GANS-VanillaAndMinibatchDiscrimination/blob/master/Vanilla_GAN_output.png)
 ![alt text](https://github.com/sanghviyashiitb/GANS-VanillaAndMinibatchDiscrimination/blob/master/MinibatchDiscrimination_GAN_output.png)
-(Left) Vanilla GAN outputs (Right) GAN outputs using Minibatch Discrimination Layer
+
+</br> (Left) Vanilla GAN outputs (Right) GAN outputs using Minibatch Discrimination Layer
