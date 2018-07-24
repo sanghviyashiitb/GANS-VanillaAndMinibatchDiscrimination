@@ -11,5 +11,5 @@ Note that the code for minibatch discrimination is not really optimal at this st
 
 </br> (Left) Vanilla GAN outputs (Right) GAN outputs using Minibatch Discrimination Layer
 </br> Clearly Minibatch discrimination has improved the output digits, but they still don't look realistic enough. Possible ways we can improve this: 
-(a) Adding more layers. As of now the there is only a single hidden layer which is too simplistic in my opinion.
-(b) Some other improved techniques for training GANs such Wesserstein/Unrolled GANS.
+</br>  (a) Adding more layers. As of now the there is only a single hidden layer which is too simplistic in my opinion.
+</br>  (b) Some other improved techniques for training GANs such Wesserstein/Unrolled GANS.
